@@ -16,7 +16,8 @@ This project involves designing, implementing, and optimizing a relational datab
 - Faker library (for data generation)
 
 ## Project Structure
-- `/DDL/`: Table creation scripts
+- `/Dataset Generation/`: Table creation scripts
+- `/Dataset/`: Generated data relations
 - `/Queries/`: Insert, Update, Select, Delete, Transaction queries
 - `/Procedures/`: Stored procedures and functions
 
