@@ -12,7 +12,7 @@ This project involves designing, implementing, and optimizing a relational datab
 
 ## Technologies Used
 - PostgreSQL
-- SQL
+- Python
 - Faker library (for data generation)
 
 ## Project Structure
